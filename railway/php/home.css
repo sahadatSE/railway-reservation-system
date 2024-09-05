@@ -1,0 +1,15 @@
+.contain{
+    /* border: 1px solid red;; */
+    position: fixed;
+    top:0;
+    /* right:500px; */
+    left:auto;
+    background-color: white;
+    width: 100%;
+}
+.foot{
+    /* position: absolute; */
+    position: inherit;
+    margin: 250px auto;
+    /* background: blue; */
+}
